@@ -1,0 +1,25 @@
+{
+  "vendehumos": [
+    {
+      "id": 0,
+      "nombre": "Josef Ajram",
+      "descripcion": "Aprende a invertir y hazte rico de hoy a mañana",
+      "labels": ["trading"],
+      "numVotos": 0
+    },
+    {
+      "id": 1,
+      "nombre": "Pep Guardiola",
+      "descripcion": "Tiki taka",
+      "labels": ["soccer"],
+      "numVotos": 0
+    },
+    {
+      "id": 2,
+      "nombre": "Rafael Santandreu",
+      "descripcion": "La depresión te la causas tú.",
+      "labels": ["psicología"],
+      "numVotos": 0
+    }
+  ]
+}

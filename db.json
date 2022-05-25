@@ -26,17 +26,9 @@
         "psicología"
       ],
       "numVotos": 5
-    },
-    {
-      "nombre": "ewe",
-      "descripcion": "wewe",
-      "numVotos": 4,
-      "labels": [
-        "cripto",
-        "trading",
-        "soccer"
-      ],
-      "id": 3
     }
+  ],
+  "suscripciones": [
+   
   ]
 }
